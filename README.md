@@ -1,2 +1,2 @@
-# Rainmeter
-For skins and themes
+# Rainmeter-Weather
+Weather related skins
